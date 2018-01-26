@@ -1,0 +1,7 @@
+.block:hover{
+   transform: scale(1.1);
+   z-index: 1;
+}
+.block.inactive{
+  background-color: transparent !important;
+}
