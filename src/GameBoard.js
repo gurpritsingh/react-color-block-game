@@ -66,7 +66,7 @@ class GameBoard extends React.Component {
       });
     return (
         <div className="board">
-            <h1>Match colors</h1>
+            <h1>Match correct colors</h1>
             <div className="" style={this.styles}>
                 {this.blocks}
             </div>
